@@ -3,8 +3,8 @@
 Technical designer and gameplay scripter. Seven years building multiplayer gameplay systems on DayZ.
 
 Currently lead developer of **Metro W.A.R. RP** — a survival and roleplay project set in the Metro 2033
-universe, built in a two-person team. I own gameplay scripting, systems design, level design and the
-server economy; my teammate handles the world and the map.
+universe, built in a two-person team. I own gameplay scripting, systems design and the server's economy
+systems, and contribute to level design; my teammate handles the world, the map and economy balance.
 
 **Portfolio and case studies → [juze1234.github.io](https://juze1234.github.io/)**
 
